@@ -1,0 +1,43 @@
+span {
+    font-family: 'Berkshire Swash', cursive;
+    letter-spacing: 20px;
+    font-size: 150%;
+    color: white;
+    text-shadow: 2px 2px #a34b41;
+}
+
+.desc {
+    letter-spacing: 10px;
+    font-size: medium;
+    color: white;
+    padding-top: 0;
+}
+
+.masthead {
+    top: 0;
+    height: 50vh;
+    max-height: 200px;
+    background-image: url('images/banner2.jpg');
+    background-size: cover;
+    background-position: auto;
+    background-repeat: no-repeat;
+    padding-top: 0;
+  }
+
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #ffffff;
+    background-color: rgba(255, 238, 238, 0.4);
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 75%;
+    margin: 2px;
+  }
+  
+  .inactive {
+    color: rgb(230, 225, 226);
+    font-weight: 600;
+    background-color: rgba(136, 102, 102, 0.4);
+    font-size: 75%;
+    margin: 2px;
+   
+  }
