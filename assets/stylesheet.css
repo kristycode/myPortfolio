@@ -41,3 +41,9 @@ span {
     margin: 2px;
    
   }
+
+  main {
+    background-color: #a34b41;
+    border: 1px solid #B22222;
+    border-radius: 5px;
+  }
