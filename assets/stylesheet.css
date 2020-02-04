@@ -22,28 +22,32 @@ span {
     background-position: auto;
     background-repeat: no-repeat;
     padding-top: 0;
-  }
+}
 
-  .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #ffffff;
     background-color: rgba(255, 238, 238, 0.4);
     font-weight: bolder;
     letter-spacing: 1px;
     font-size: 75%;
     margin: 2px;
-  }
+ }
   
-  .inactive {
+.inactive {
     color: rgb(230, 225, 226);
     font-weight: 600;
     background-color: rgba(136, 102, 102, 0.4);
     font-size: 75%;
     margin: 2px;
    
-  }
+}
 
-  main {
-    background-color: #a34b41;
-    border: 1px solid #B22222;
+main {
+    background-color: #f8eded;
+    border: 1.5px solid rgb(230, 204, 204);
     border-radius: 5px;
-  }
+}
+  
+body {
+    background-color: #fdf5f5;
+}
